@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ray2060
+- :keycap_ten: I’m 10 years old 
+- 🌱 I’m currently learning Python and C++
+- 📫 You can drop me a line at r@pythoner.work
