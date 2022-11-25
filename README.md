@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ray2060
-- :keycap_ten: I’m 10 years old 
-- 🌱 I’m currently learning Python and C++
-- 📫 You can drop me a line at r@pythoner.work
+- :wave: Hi, I’m @ray2060
+- :rabbit: I’m 12 years old 
+- :computer: I've been an OIer since 2021
+- :e-mail: You can drop me a line at r@pythoner.work
